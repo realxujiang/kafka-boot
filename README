@@ -1,0 +1,7 @@
+## Kafka Boot
+
+InteliJ IDEA
+
+* Import maven project
+
+* `command + o` enter `KafkaBootApplication`, Run main function.
